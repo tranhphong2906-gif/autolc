@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+requests
+python-socketio
+websocket-client
+python-engineio
+bidict
+simple-websocket
